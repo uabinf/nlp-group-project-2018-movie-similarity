@@ -1,6 +1,6 @@
 # Movie Similarity using Subtitles and Synopses 
 
-1. Download subtitles (.srt) and place them into a /srt folder
+1. Download subtitles (.srt) and place them into /srt folder
 2. Preprocess subtitles
 	- remove markup
 	- tokenise
